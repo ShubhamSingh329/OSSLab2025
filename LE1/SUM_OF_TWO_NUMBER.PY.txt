@@ -1,0 +1,4 @@
+A = 10
+B = 20
+
+print("sum of A and B is :", A+B)
